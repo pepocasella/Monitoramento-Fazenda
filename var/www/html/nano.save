@@ -1,0 +1,3 @@
+<form>
+  <button formaction="">Go to Stack Overflow!</button>
+</form>
